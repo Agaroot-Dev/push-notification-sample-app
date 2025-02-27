@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5447307474",
+    "project_id": "push-notification-sample-576c6",
+    "storage_bucket": "push-notification-sample-576c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5447307474:android:1918be922ccf0787d1dd0b",
+        "android_client_info": {
+          "package_name": "jp.agaroot.push_notification_sample_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdKHuW4NBjsMDohuuPXn1QlmTfl7YJFSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
